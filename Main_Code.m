@@ -1,5 +1,5 @@
-%% Chapter 4 Results And Discussion Script
 clear;close all;clc;
+
 set(0,'DefaultAxesFontSize',13);
 set(0,'DefaultLineLineWidth',1.35);
 set(0,'DefaultFigureColor','w');
