@@ -1,6 +1,6 @@
 # RLS Based Adaptive Beamforming for Wireless Receiver Enhancement
 
-This repository contains the MATLAB code for a graduation project on adaptive beamforming for a QPSK wireless receiver. The project studies how the Recursive Least Squares algorithm can improve receiver performance under co channel interference and noise. LMS and NLMS are also included for comparison.
+This repository contains the MATLAB code for a graduation project on adaptive beamforming for a QPSK wireless receiver. The project studies how the Recursive Least Squares algorithm can improve receiver performance under co-channel interference and noise. LMS and NLMS are also included for comparison.
 
 ## Project Information
 
@@ -13,8 +13,6 @@ Year: 2026
 ## Repository Contents
 
 - `Code/MAINCODE.m`: Main MATLAB script used to generate the simulation results.
-- `Code/General_code_RefrenceCode.m`: Older reference MATLAB code.
-- `Code/Results/`: Saved figures and tables generated from the simulation.
 
 ## How to Run
 
